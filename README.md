@@ -1,1 +1,1 @@
-trpc types cli to export typescript types from root.ts
+trpc types cli to export trpc types from root.ts
